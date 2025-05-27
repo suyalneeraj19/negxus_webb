@@ -61958,7 +61958,7 @@ oa(){var s=0,r=A.W(t.z),q,p,o,n,m,l
 var $async$oa=A.X(function(a,b){if(a===1)return A.T(b,r)
 while(true)switch(s){case 0:try{o=document
 n=o.createElement("a")
-n.href="https://github.com/suyalneeraj19/negxus_webb/releases/download/1.0.1/negxus_v1.0.1.apk"
+n.href="https://github.com/suyalneeraj19/negxus_webb/releases/download/2.0.0/app-armeabi-v7a-release.apk"
 n.download="NegXus.apk"
 q=n
 m=o.body
